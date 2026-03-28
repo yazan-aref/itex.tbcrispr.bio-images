@@ -2,13 +2,13 @@
 
 ## Purpose
 
-This repository serves as an image hosting solution for the ITEX TBCRISPR Bio initiative and related projects. It is not intended as a public content distribution platform.
+This repository serves as an image hosting solution for the itex.tbcrispr.bio project and related projects. It is not intended as a public content distribution platform.
 
 ## Usage Policy
 
 **These images are not available for public use, distribution, or reuse without explicit written consent.**
 
-The images contained in this repository are created for and used exclusively in support of the ITEX TBCRISPR Bio project and its associated documentation, presentations, and materials. 
+The images contained in this repository are created for and used exclusively in support of the itex.tbcrispr.bio project and its associated documentation, presentations, and materials. 
 
 ### Unauthorized Use is Not Permitted
 
@@ -34,7 +34,7 @@ Requests may be approved, denied, or approved with conditions at the discretion 
 
 ## Copyright & Attribution
 
-All images in this repository are the work product of the ITEX TBCRISPR Bio project and contributors. By viewing this repository, you acknowledge that you do not hold any rights to these images and agree to respect these usage restrictions.
+All images in this repository are the work product of the itex.tbcrispr.bio project. By viewing this repository, you acknowledge that you do not hold any rights to these images and agree to respect these usage restrictions.
 
 ---
 
